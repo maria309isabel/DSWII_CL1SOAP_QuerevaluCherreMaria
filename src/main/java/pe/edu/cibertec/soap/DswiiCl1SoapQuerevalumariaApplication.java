@@ -1,4 +1,4 @@
-package pe.edu.cibertec.DSWII_CL1SOAP_QUEREVALUMARIA.service;
+package pe.edu.cibertec.soap;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
